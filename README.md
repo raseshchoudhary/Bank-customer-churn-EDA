@@ -31,7 +31,7 @@ The only purpose of this project was to draw some key insights from the data and
 
 ![alt text](https://th.bing.com/th/id/OIP.MYCaMZgPL1uKfItltjygagHaHa?pid=ImgDet&rs=1)
 
-**Some key insights have been mentioned here, for extensive information, I will suggest the reader to have a look at the ipynb file**
+>Some key insights have been mentioned here, for extensive information, I will suggest the reader to have a look at the ipynb file
 
 1.Uneducated customers have more credit limit because they have a habit of taking loans for inconsequential purchases.
 
@@ -51,6 +51,6 @@ The only purpose of this project was to draw some key insights from the data and
 
 9.Customer age and months in book are positively correlated.
 
-> Ending note.
+# Ending note.
 
 Thanks for reading this document, I have also made a decision tree classified model, to know whether a customer as attrited or not. I you would want to know more check the ipynb file.
