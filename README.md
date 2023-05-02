@@ -31,7 +31,7 @@ The only purpose of this project was to draw some key insights from the data and
 
 ![alt text](https://th.bing.com/th/id/OIP.MYCaMZgPL1uKfItltjygagHaHa?pid=ImgDet&rs=1)
 
-**Some key insights have been mentioned here, for extensive information, I will suggest the reader to have a look at the ipynb file**
+#**Some key insights have been mentioned here, for extensive information, I will suggest the reader to have a look at the ipynb file**
 
 1.Highest attrition being praciced by graduates.
 
