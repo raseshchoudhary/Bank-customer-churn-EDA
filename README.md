@@ -31,27 +31,25 @@ The only purpose of this project was to draw some key insights from the data and
 
 ![alt text](https://th.bing.com/th/id/OIP.MYCaMZgPL1uKfItltjygagHaHa?pid=ImgDet&rs=1)
 
-#**Some key insights have been mentioned here, for extensive information, I will suggest the reader to have a look at the ipynb file**
+**Some key insights have been mentioned here, for extensive information, I will suggest the reader to have a look at the ipynb file**
 
-1.Highest attrition being praciced by graduates.
+1.Uneducated customers have more credit limit because they have a habit of taking loans for inconsequential purchases.
 
-2The HR should properly scrutinize before hiring any graduates.
+2.The transaction frequency of existing customer is 4 time more than the attrited ones.
 
 3.Good news!, the company has a boast worthy gender diversity.
 
-4.Customers with lower available credit may be relying more heavily on their credit card to make purchases, which leads to higher utilization rates. This could be due to a variety of factors, such as a lower income or unexpected expenses that reduce available cash.
+4.Most of our customers, earn below $40k.
 
-5.Most of our customers, earn below $40k.
+5.The HR should properly scrutinize before hiring any graduates.
 
-6.The transaction frequency of existing customer is 4 time more than the attrited ones.
+6.Blue card is being given to all the customers irrespective of age.
 
-7.Blue card is being given to all the customers irrespective of age.
+7.Platinum card is only given to middle aged customers.
 
-8.Platinum card is only given to middle aged customers.
+8.Highest attrition being praciced by graduates.
 
-9.Uneducated customers have more credit limit because they have a habit of taking loans for inconsequential purchases.
-
-10.Customer age and months in book are positively correlated.
+9.Customer age and months in book are positively correlated.
 
 # Ending note.
 
