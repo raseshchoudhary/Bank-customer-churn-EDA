@@ -2,7 +2,7 @@
 
 # Overview about the dataset.
 
-![alt text](image.jpg)
+![alt text](https://th.bing.com/th/id/R.fdc478d1509cf1003be684703d84ceb7?rik=244TCjt%2fnTQZIA&riu=http%3a%2f%2fdontmesswithtaxes.typepad.com%2f.a%2f6a00d8345157c669e201bb09511bd9970d-800wi&ehk=yTFZ8r3ZCceNh6HxcA3WxuWBY7q%2bnQAwpmPPM0vK2YA%3d&risl=&pid=ImgRaw&r=0)
 
 1.This dataset pertains to a bank, its customers and their banking habits. Some background information is given about the customers such
 as their age, gender, education, marital status and income, which may be used by the bank to better understand thier customers.
