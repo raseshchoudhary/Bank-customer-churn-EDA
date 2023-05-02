@@ -51,6 +51,6 @@ The only purpose of this project was to draw some key insights from the data and
 
 9.Customer age and months in book are positively correlated.
 
-# Ending note.
+> Ending note.
 
 Thanks for reading this document, I have also made a decision tree classified model, to know whether a customer as attrited or not. I you would want to know more check the ipynb file.
